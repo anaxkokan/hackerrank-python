@@ -1,5 +1,5 @@
 # HackerRank - Python
-Solutions of HackerRank's Python problems
+Solutions to HackerRank's Python problems
 
 ### Older
 
