@@ -2,7 +2,11 @@
 
 Solutions to HackerRank's Python problems
 
+### 2021-04-26
+
+- [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) - [solution](python_string_formatting.py)
+
 ### Older
 
-- [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) - [python_quest_1.py](python_quest_1.py)
-- [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) - [write_a_function.py](write_a_function.py)
+- [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) - [solution](python_quest_1.py)
+- [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) - [solution](write_a_function.py)
