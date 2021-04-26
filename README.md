@@ -5,6 +5,7 @@ Solutions to HackerRank's Python problems
 ### 2021-04-26
 
 - [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) - [solution](python_string_formatting.py)
+- [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) - [solution](itertools_product.py)
 
 ### Older
 
