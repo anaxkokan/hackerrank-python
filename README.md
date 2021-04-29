@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's Python problems
 
+## 2021-04-29
+
+- [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) - [solution](capitalize.py)
+
 ### 2021-04-26
 
 - [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) - [solution](python_string_formatting.py)
