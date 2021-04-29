@@ -1,6 +1,5 @@
---https://www.hackerrank.com/challenges/itertools-product/problem
+#https://www.hackerrank.com/challenges/itertools-product/problem
 from itertools import product
-
 
 a = (input())
 a_list = (list((a).split()))
