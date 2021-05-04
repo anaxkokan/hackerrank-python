@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's Python problems
 
+## 2021-05-04
+
+- [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) - [solution](the_minion_game.py)
+
 ## 2021-04-29
 
 - [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) - [solution](capitalize.py)
