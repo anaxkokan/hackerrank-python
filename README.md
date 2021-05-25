@@ -8,7 +8,7 @@ Solutions to HackerRank's Python problems
 
 ## 2021-05-14
 
-- [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem)- [solution](merge_the_tools.py)
+- [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) - [solution](merge_the_tools.py)
 
 ## 2021-05-04
 
