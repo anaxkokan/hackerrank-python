@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's Python problems
 
+## 2021-05-29
+
+- [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) - [solution](defaultdict_tutorial.py)
+
 ## 2021-05-25
 
 - [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) - [solution](collections_counter.py)
